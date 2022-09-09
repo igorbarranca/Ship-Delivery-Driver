@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sea
+    uniqueID: 1289309049
+    locked: 0
+  - name: Foam
+    uniqueID: 4185663103
+    locked: 0
+  - name: Land
+    uniqueID: 3236462455
+    locked: 0
+  - name: Hazard
+    uniqueID: 3116356855
+    locked: 0
+  - name: Package
+    uniqueID: 3003764447
+    locked: 0
+  - name: Aesthetics
+    uniqueID: 4166833083
+    locked: 0
+  - name: Enemy
+    uniqueID: 3487059677
+    locked: 0
+  - name: Player
+    uniqueID: 2929210251
+    locked: 0
